@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: black;
+    background: rgb(227, 34, 192);
     margin: 0px;
     font-family: "Edu AU VIC WA NT Guides", cursive;
     margin-bottom: 100px;
@@ -10,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(233, 104, 244);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgba(228, 124, 221, 0.111);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
